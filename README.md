@@ -1,4 +1,4 @@
-# Get Started With Casper (Challange)
+# Get Started With Casper (Challange) Task #1
 
 Task #1 Create and deploy a simple, smart contract with cargo casper and cargo test
 
